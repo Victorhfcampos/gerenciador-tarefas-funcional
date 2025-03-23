@@ -26,5 +26,7 @@ Victor Hugo Fonseca Campos - Matrícula: 2317221
 
 Fontes e Apoio
 Documentação oficial do Python (https://docs.python.org/3/)
+
 Comunidade Stack Overflow
+
 Auxílio pontual com IA (ChatGPT e DeepSeek), com adaptações próprias
